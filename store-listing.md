@@ -70,7 +70,7 @@ Your tasks, in physical form. Download SpinDex AI today.
 
 ### Contact email (support)
 ```
-support@generalsoft.ai
+support@spindex.generalsoft.ai
 ```
 
 ### Privacy policy URL
@@ -91,7 +91,7 @@ Declare the following in Play Console based on the app's behavior:
 - **App info and performance → Diagnostics** — Collected, not shared (telemetry)
 
 Data deletion: provide `https://spindex.generalsoft.ai/data-deletion.html` and enable the
-"Users can request deletion" path (email `support@generalsoft.ai`).
+"Users can request deletion" path (email `support@spindex.generalsoft.ai`).
 
 ---
 

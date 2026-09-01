@@ -52,7 +52,7 @@ Use these exact URLs in the store consoles:
 | Privacy Policy (Google Play) | `https://spindex.generalsoft.ai/privacy.html` |
 | Privacy Policy (App Store Connect) | `https://spindex.generalsoft.ai/privacy.html` |
 | Support URL (App Store Connect) | `https://spindex.generalsoft.ai/support.html` |
-| Support email | `support@generalsoft.ai` |
+| Support email | `support@spindex.generalsoft.ai` |
 | Data deletion (Google Play) | `https://spindex.generalsoft.ai/data-deletion.html` |
 | Terms of Service | `https://spindex.generalsoft.ai/terms.html` |
 
@@ -62,7 +62,7 @@ Use these exact URLs in the store consoles:
    contains a numeric ID (e.g. `https://apps.apple.com/app/id1234567890`). Search
    `index.html` for `idXXXXXXXXX` and replace it. The Google Play link already uses
    the application ID `com.generalsoft.spindex` and should work once published.
-2. **Confirm the support email** is monitored (`support@generalsoft.ai`).
+2. **Confirm the support email** is monitored (`support@spindex.generalsoft.ai`).
 3. **Review legal wording** — the Privacy Policy and Terms are templates tailored to
    SpinDex AI's actual features. Have them reviewed by counsel before going live, and
    update the "Last updated" dates if you edit them.
