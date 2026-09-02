@@ -452,6 +452,82 @@ img {
 }
 
 /* ---------------------------------------------------------------------------
+   How-to Shorts
+   --------------------------------------------------------------------------- */
+.section-header h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin: 0 0 14px;
+  letter-spacing: -0.02em;
+}
+
+.shorts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 360px));
+  gap: 26px;
+  justify-content: center;
+}
+
+.short-card {
+  background: var(--white);
+  border: 1px solid rgba(92, 45, 145, 0.1);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.short-card .video-embed {
+  max-width: 100%;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.short-body {
+  padding: 20px 22px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.short-body h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  letter-spacing: -0.01em;
+  color: var(--purple-dark);
+}
+
+.short-body p {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 0.96rem;
+}
+
+.short-body ol {
+  margin: 2px 0 0;
+  padding-left: 20px;
+  color: var(--ink);
+  font-size: 0.95rem;
+}
+
+.short-body ol li {
+  margin-bottom: 6px;
+}
+
+.short-link {
+  margin-top: 6px;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.coming-soon {
+  text-align: center;
+  color: var(--ink-soft);
+  margin: 34px 0 0;
+  font-size: 0.95rem;
+}
+
+/* ---------------------------------------------------------------------------
    Footer
    --------------------------------------------------------------------------- */
 .site-footer {

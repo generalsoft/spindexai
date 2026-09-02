@@ -8,6 +8,7 @@ intended for Google Play and Apple App Store publication.
 | File | Purpose | Required by |
 |------|---------|-------------|
 | `index.html` | Product / landing page | — |
+| `how-to.html` | How-to Shorts (video guides) | — |
 | `privacy.html` | Privacy Policy | Google Play & App Store |
 | `terms.html` | Terms of Service | Recommended (Apple EULA / Play) |
 | `support.html` | Support / contact | App Store (support URL) |
